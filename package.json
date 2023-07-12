@@ -1,0 +1,14 @@
+{
+  "name": "GreenMetaverseToken",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tarafans/GreenMetaverseToken.git",
+  "author": "tarafans <tarafans7@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.16.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "4.4.1"
+  }
+}
